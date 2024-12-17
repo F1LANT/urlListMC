@@ -1,0 +1,117 @@
+{
+    server1: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.36/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.95/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.37/",
+      zayavki: "https://forum.majestic-rp.ru/forums/unban/",
+    },
+    server2: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.170/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.171/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.169/",
+      zayavki: "https://forum.majestic-rp.ru/forums/unban2/",
+    },
+    server3: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.251/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.250/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.247/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenie-o-razbane-igrovogo-personazha.240/",
+    },
+    server4: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.317/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.319/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.318/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenie-na-razban-igrovogo-personazha.944/",
+    },
+    server5: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.471/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.476/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.474/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.492/",
+    },
+    server6: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.542/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.541/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.540/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.538/",
+    },
+    server7: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.657/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.655/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.652/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.659/",
+    },
+    server8: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.767/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij-i-semej.765/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.762/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.770/",
+    },
+    server9: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.861/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.860/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.859/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.858/",
+    },
+    server10: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.934/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.939/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.936/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenie-o-razbane-igrovogo-personazha.932/",
+    },
+    server11: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.999/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.997/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.994/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.1001/",
+    },
+    server12: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administraciju.1064/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-frakcij.1062/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.1059/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zajavlenija-o-razbane-igrovyx-personazhej.1066/",
+    },
+    server13: {
+      admin:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-administratsiyu.1090/",
+      leader:
+        "https://forum.majestic-rp.ru/forums/zhaloby-na-liderov-fraktsii.1088/",
+      player: "https://forum.majestic-rp.ru/forums/zhaloby-na-igrokov.1085/",
+      zayavki:
+        "https://forum.majestic-rp.ru/forums/zayavleniya-o-razbane-igrovykh-personazhei.1092/",
+    },
+  }
